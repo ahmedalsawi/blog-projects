@@ -1,0 +1,1 @@
+md5 is makeshift python implementation. It mirrors the algorithm in [RFC](https://tools.ietf.org/html/rfc1321) 
