@@ -1,0 +1,2 @@
+read_verilog -sv top.sv
+synth_ice40 -abc2 -top top -blif top.blif -json top.json
